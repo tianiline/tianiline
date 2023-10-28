@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
 - <b>[Active Directory lab](https://imgur.com/Yt57a1Q) </b>
-- <b>Bash</b>
+- <b>[Bash Script of analyzing access logs](https://imgur.com/a/4mlwlL6)</b>
+- <b>[Bash Script of a system monitoring](https://imgur.com/iliLD9V)</b>
 - <h2>📺 Certifications</h2>
 - <b>[certs](https://imgur.com/a/EeDruvv)</b>
 
