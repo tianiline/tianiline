@@ -5,7 +5,7 @@
 - <b>[Active Directory lab](https://imgur.com/Yt57a1Q) </b>
 - <b>Bash</b>
 - <h2>📺 Certifications</h2>
-- <b>[certs](https://imgur.com/a/SmV8d3r)</b>
+- <b>[certs](https://imgur.com/a/EeDruvv)</b>
 
 
 <h2>📺 Popular YouTube Videos</h2>
