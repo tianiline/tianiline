@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Mylainne Tiani! <a href="(https://www.linkedin.com/in/mylainne-tiani/)">Cybersecurity Analyst</a>
 
-<!--
-**tianiline/tianiline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity projects:</h2>
+
+- <b>[Active Directory lab](https://imgur.com/Yt57a1Q) </b>
+- <b>Bash</b>
+- <h2>📺 Certifications</h2>
+- <b>[certs](https://imgur.com/a/SmV8d3r)</b>
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
 
 Here are some ideas to get you started:
 
