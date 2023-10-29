@@ -47,6 +47,26 @@ SMTP Enumeration Tools (e.g., smtp-user-enum):
 5. SMTP enumeration tools are used to identify valid email addresses on a mail server. One such tool is smtp-user-enum.
 smtp-user-enum -M VRFY -U /usr/share/wordlists/metasploit/unix_users.txt -t birchwood.com -o output.txt
 This command performs SMTP user enumeration using the VRFY method and a wordlist of potential usernames.
+- <b>[WireShark and tcpdump](https://imgur.com/a/FIQPPDO)</b>
+    - Description: This lab allowed me to gain practical experience in network traffic analysis using Wireshark and tcpdump. I learned how to capture network traffic, apply filters, and analyze packet-level details. By comparing Wireshark and tcpdump, i understood the differences in their usage and capabilities for network traffic analysis.
+
+- <b>[simulated penetration test on a network](https://imgur.com/a/GqXTMcH)</b>
+    - Description: In this lab,i have learned how to use Metasploit, for penetration testing, to identify vulnerabilities and exploit target systems. I have gained hands-on experience in configuring and launching exploits using Metasploit, explored the post-exploitation functionalities available within the framework.
+
+- <b>[password cracking using John the Ripper and Hashcat ](https://imgur.com/a/FMKabj1)</b>
+    - Description: In this home lab,i explored password cracking techniques using tools like John the Ripper and Hashcat. I gained hands-on experience in cracking password hashes and understanding the vulnerabilities associated with weak passwords.
+ - <b>[Steganography Analysis](https://imgur.com/a/RrahPw9)</b>
+     - Description: In lab,i explored the field of steganography and its applications in digital forensics. I gained hands-on experience with steganography tools like Steghide and Stegosuite, allowing me to analyze, detect, and extract hidden data within digital media. 
+1.	Selected a target image for steganography analysis.
+2.	Used Stegosuite to analyze the selected file for potential hidden data by applying various steganography detection techniques.
+3.	Noted any suspicious indicators or anomalies that may suggest the presence of hidden data within the file.
+   - Embeded and Extracted Hidden Data
+1.	Selected a cover file and a data file that i wanted to embed within the cover file.
+2.	Used Steghide to embed the data file within the cover file by executing the following command:
+steghide embed -cf dog.jpg -ef hidden.txt 
+3.	Extracted the hidden data from the cover file using Steghide by executing the following command:
+steghide extract -sf hidden.txt 
+4.	I then Verified the successful extraction of the hidden data and analyzed its contents.
 
 
 - <h2>📺 Certifications</h2>
